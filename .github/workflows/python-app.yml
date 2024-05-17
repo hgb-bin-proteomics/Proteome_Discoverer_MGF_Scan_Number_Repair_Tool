@@ -2,7 +2,7 @@
 # Reference workflow provided by (c) GitHub
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: repair_tool
+name: python_ci
 
 on:
   push:
